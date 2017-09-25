@@ -4,7 +4,7 @@ public class HelloWorldClass {
 
 	public static void main(String[] args) {
 
-        System.out.println("Salam, Yer!!!");
+        System.out.println("Salam, Yer!");
 
 	}
 
